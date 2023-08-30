@@ -1,13 +1,13 @@
 
-<h1 align="center">Curso de MongoDB/h1>
-<h3 align="center">Base de datos relacionasles - Base de datos no relacionales - Manejo de documentos - Datagrip</h3>
+<h1 align="center">Curso de MongoDB </h1>
+<h3 align="center">DDBB relacionasles - DDBB no relacionales - Manejo de documentos - Datagrip</h3>
 
 ## 🚀 Usage
 
 Clone the repository
 
 ```sh
-git clone https://github.com/dheeyi/goowil.git
+git clone [https://github.com/dheeyi/goowil.git](https://github.com/dheeyi/curso-mongo-db.git)
 ```
 
 ## ✨ Screenshots
@@ -38,8 +38,8 @@ git clone https://github.com/dheeyi/goowil.git
 
 **William Barra**
 
-- LinkedIN: [@dheeyi](https://www.linkedin.com/in/dheeyi/)
-- Github: [@dheeyi](https://github.com/dheeyi)
+- LinkedIN: [[@dheeyi](https://www.linkedin.com/in/dheeyi/)](https://www.linkedin.com/in/dheeyi/)
+- Github: [[@dheeyi](https://github.com/dheeyi)](https://github.com/dheeyi)
 - Bolivia: [@phone](+591 76567373)
 
 ## 📝 License
