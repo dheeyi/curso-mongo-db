@@ -44,7 +44,7 @@ git clone https://github.com/dheeyi/curso-mongo-db.git
 
 ## 📝 License
 
-Copyright © 2020 [Dheeyi William](https://github.com/dheeyi).
+Copyright © 2023 [Dheeyi William](https://github.com/dheeyi).
 See ``MIT LICENSE`` for more information.
 
 ---
