@@ -7,7 +7,7 @@
 Clone the repository
 
 ```sh
-git clone [https://github.com/dheeyi/goowil.git](https://github.com/dheeyi/curso-mongo-db.git)
+git clone https://github.com/dheeyi/curso-mongo-db.git
 ```
 
 ## ✨ Screenshots
@@ -38,8 +38,8 @@ git clone [https://github.com/dheeyi/goowil.git](https://github.com/dheeyi/curso
 
 **William Barra**
 
-- LinkedIN: [[@dheeyi](https://www.linkedin.com/in/dheeyi/)](https://www.linkedin.com/in/dheeyi/)
-- Github: [[@dheeyi](https://github.com/dheeyi)](https://github.com/dheeyi)
+- LinkedIN: [https://www.linkedin.com/in/dheeyi/](https://www.linkedin.com/in/dheeyi/)
+- Github: [https://github.com/dheeyi](https://github.com/dheeyi)
 - Bolivia: [@phone](+591 76567373)
 
 ## 📝 License
